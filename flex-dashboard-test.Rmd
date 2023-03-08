@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Niki"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -25,7 +25,7 @@ Column {data-width=350}
 ### Chart B
 
 ```{r}
-
+chartB
 ```
 
 ### Chart C
